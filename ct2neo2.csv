@@ -1,0 +1,394 @@
+,LeadSponsorName,LocationCountry,NCTId
+0,Bayer,Albania,1
+1,Bayer,Algeria,1
+2,Bayer,Argentina,4
+3,Bayer,Australia,4
+4,Bayer,Austria,9
+5,Bayer,Bahrain,2
+6,Bayer,Belgium,11
+7,Bayer,Bosnia and Herzegovina,2
+8,Bayer,Brazil,2
+9,Bayer,Canada,11
+10,Bayer,China,3
+11,Bayer,Colombia,3
+12,Bayer,Croatia,1
+13,Bayer,Czech Republic,5
+14,Bayer,Czechia,3
+15,Bayer,Denmark,8
+16,Bayer,Egypt,3
+17,Bayer,Estonia,1
+18,Bayer,Finland,8
+19,Bayer,France,14
+20,Bayer,Germany,17
+21,Bayer,Greece,5
+22,Bayer,Hungary,8
+23,Bayer,Indonesia,1
+24,Bayer,"Iran, Islamic Republic of",1
+25,Bayer,Ireland,2
+26,Bayer,Israel,10
+27,Bayer,Italy,9
+28,Bayer,Jordan,2
+29,Bayer,Kazakhstan,2
+30,Bayer,"Korea, Republic of",4
+31,Bayer,Kuwait,2
+32,Bayer,Latvia,2
+33,Bayer,Lebanon,2
+34,Bayer,Libyan Arab Jamahiriya,1
+35,Bayer,Mexico,2
+36,Bayer,Netherlands,8
+37,Bayer,New Zealand,1
+38,Bayer,Norway,8
+39,Bayer,Oman,1
+40,Bayer,Pakistan,1
+41,Bayer,Poland,9
+42,Bayer,Portugal,7
+43,Bayer,Russian Federation,3
+44,Bayer,Saudi Arabia,2
+45,Bayer,Singapore,1
+46,Bayer,Slovakia,1
+47,Bayer,Slovenia,7
+48,Bayer,Spain,8
+49,Bayer,Sweden,10
+50,Bayer,Switzerland,8
+51,Bayer,Syrian Arab Republic,1
+52,Bayer,Taiwan,2
+53,Bayer,Thailand,1
+54,Bayer,Tunisia,1
+55,Bayer,Turkey,1
+56,Bayer,Ukraine,2
+57,Bayer,United Arab Emirates,2
+58,Bayer,United Kingdom,6
+59,Bayer,United States,11
+60,Bayer,Venezuela,1
+61,Biogen,Argentina,7
+62,Biogen,Australia,19
+63,Biogen,Austria,8
+64,Biogen,Belarus,2
+65,Biogen,Belgium,30
+66,Biogen,Bosnia and Herzegovina,3
+67,Biogen,Brazil,3
+68,Biogen,Bulgaria,11
+69,Biogen,Canada,33
+70,Biogen,Chile,2
+71,Biogen,China,1
+72,Biogen,Colombia,4
+73,Biogen,Costa Rica,1
+74,Biogen,Croatia,7
+75,Biogen,Czech Republic,18
+76,Biogen,Czechia,17
+77,Biogen,Denmark,12
+78,Biogen,Estonia,5
+79,Biogen,Finland,8
+80,Biogen,France,33
+81,Biogen,Georgia,4
+82,Biogen,Germany,42
+83,Biogen,Greece,10
+84,Biogen,Guatemala,1
+85,Biogen,Hungary,17
+86,Biogen,India,10
+87,Biogen,Ireland,12
+88,Biogen,Israel,13
+89,Biogen,Italy,30
+90,Biogen,Japan,3
+91,Biogen,Jordan,1
+92,Biogen,"Korea, Republic of",2
+93,Biogen,Kuwait,5
+94,Biogen,Latvia,7
+95,Biogen,Lebanon,3
+96,Biogen,Lithuania,2
+97,Biogen,Luxembourg,1
+98,Biogen,"Macedonia, The Former Yugoslav Republic of",2
+99,Biogen,Malaysia,1
+100,Biogen,Mexico,11
+101,Biogen,"Moldova, Republic of",5
+102,Biogen,Netherlands,21
+103,Biogen,New Zealand,8
+104,Biogen,North Macedonia,1
+105,Biogen,Norway,7
+106,Biogen,Peru,2
+107,Biogen,Poland,29
+108,Biogen,Portugal,10
+109,Biogen,Puerto Rico,6
+110,Biogen,Romania,8
+111,Biogen,Russian Federation,14
+112,Biogen,Saudi Arabia,3
+113,Biogen,Serbia,12
+114,Biogen,Slovakia,9
+115,Biogen,Slovenia,2
+116,Biogen,South Africa,2
+117,Biogen,Spain,25
+118,Biogen,Sweden,13
+119,Biogen,Switzerland,15
+120,Biogen,Taiwan,2
+121,Biogen,Thailand,1
+122,Biogen,Tunisia,2
+123,Biogen,Turkey,8
+124,Biogen,Ukraine,12
+125,Biogen,United Arab Emirates,1
+126,Biogen,United Kingdom,31
+127,Biogen,United States,76
+128,Biogen,Virgin Islands (U.S.),1
+129,"Charite University, Berlin, Germany",Germany,19
+130,"Charite University, Berlin, Germany",United States,1
+131,EMD Serono,Argentina,3
+132,EMD Serono,Australia,3
+133,EMD Serono,Austria,3
+134,EMD Serono,Belgium,3
+135,EMD Serono,Brazil,1
+136,EMD Serono,Bulgaria,1
+137,EMD Serono,Canada,5
+138,EMD Serono,Croatia,1
+139,EMD Serono,Czech Republic,4
+140,EMD Serono,Finland,1
+141,EMD Serono,France,5
+142,EMD Serono,Germany,6
+143,EMD Serono,Greece,2
+144,EMD Serono,Hungary,1
+145,EMD Serono,Israel,1
+146,EMD Serono,Italy,5
+147,EMD Serono,Japan,1
+148,EMD Serono,Lebanon,2
+149,EMD Serono,Lithuania,2
+150,EMD Serono,Mexico,1
+151,EMD Serono,Netherlands,3
+152,EMD Serono,New Caledonia,1
+153,EMD Serono,Norway,1
+154,EMD Serono,Poland,2
+155,EMD Serono,Russian Federation,6
+156,EMD Serono,Serbia,1
+157,EMD Serono,South Africa,1
+158,EMD Serono,Spain,7
+159,EMD Serono,Sweden,3
+160,EMD Serono,Switzerland,3
+161,EMD Serono,Tunisia,1
+162,EMD Serono,Turkey,2
+163,EMD Serono,Ukraine,4
+164,EMD Serono,United Kingdom,5
+165,EMD Serono,United States,21
+166,EMD Serono,Venezuela,1
+167,Hasselt University,Belgium,25
+168,Hasselt University,Netherlands,1
+169,Hoffmann-La Roche,Argentina,8
+170,Hoffmann-La Roche,Australia,7
+171,Hoffmann-La Roche,Austria,7
+172,Hoffmann-La Roche,Belarus,1
+173,Hoffmann-La Roche,Belgium,10
+174,Hoffmann-La Roche,Bosnia and Herzegovina,2
+175,Hoffmann-La Roche,Brazil,11
+176,Hoffmann-La Roche,Bulgaria,10
+177,Hoffmann-La Roche,Canada,14
+178,Hoffmann-La Roche,Chile,2
+179,Hoffmann-La Roche,Colombia,3
+180,Hoffmann-La Roche,Costa Rica,1
+181,Hoffmann-La Roche,Croatia,4
+182,Hoffmann-La Roche,Czech Republic,1
+183,Hoffmann-La Roche,Czechia,8
+184,Hoffmann-La Roche,Denmark,8
+185,Hoffmann-La Roche,Dominican Republic,1
+186,Hoffmann-La Roche,Egypt,3
+187,Hoffmann-La Roche,Estonia,3
+188,Hoffmann-La Roche,Finland,5
+189,Hoffmann-La Roche,France,16
+190,Hoffmann-La Roche,Georgia,1
+191,Hoffmann-La Roche,Germany,13
+192,Hoffmann-La Roche,Greece,5
+193,Hoffmann-La Roche,Guatemala,1
+194,Hoffmann-La Roche,Hong Kong,1
+195,Hoffmann-La Roche,Hungary,8
+196,Hoffmann-La Roche,Ireland,5
+197,Hoffmann-La Roche,Israel,4
+198,Hoffmann-La Roche,Italy,16
+199,Hoffmann-La Roche,"Korea, Republic of",1
+200,Hoffmann-La Roche,Kuwait,3
+201,Hoffmann-La Roche,Latvia,1
+202,Hoffmann-La Roche,Lebanon,2
+203,Hoffmann-La Roche,Lithuania,2
+204,Hoffmann-La Roche,Mexico,11
+205,Hoffmann-La Roche,Montenegro,1
+206,Hoffmann-La Roche,Morocco,1
+207,Hoffmann-La Roche,Netherlands,8
+208,Hoffmann-La Roche,New Zealand,2
+209,Hoffmann-La Roche,Norway,5
+210,Hoffmann-La Roche,Panama,2
+211,Hoffmann-La Roche,Paraguay,1
+212,Hoffmann-La Roche,Peru,6
+213,Hoffmann-La Roche,Poland,14
+214,Hoffmann-La Roche,Portugal,10
+215,Hoffmann-La Roche,Puerto Rico,2
+216,Hoffmann-La Roche,Qatar,1
+217,Hoffmann-La Roche,Romania,4
+218,Hoffmann-La Roche,Russian Federation,12
+219,Hoffmann-La Roche,Saudi Arabia,2
+220,Hoffmann-La Roche,Serbia,3
+221,Hoffmann-La Roche,Slovakia,6
+222,Hoffmann-La Roche,Slovenia,2
+223,Hoffmann-La Roche,South Africa,1
+224,Hoffmann-La Roche,Spain,18
+225,Hoffmann-La Roche,Sweden,4
+226,Hoffmann-La Roche,Switzerland,8
+227,Hoffmann-La Roche,Taiwan,1
+228,Hoffmann-La Roche,Tunisia,1
+229,Hoffmann-La Roche,Turkey,9
+230,Hoffmann-La Roche,Ukraine,8
+231,Hoffmann-La Roche,United Arab Emirates,2
+232,Hoffmann-La Roche,United Kingdom,14
+233,Hoffmann-La Roche,United States,17
+234,Hoffmann-La Roche,Uruguay,1
+235,Johns Hopkins University,United States,22
+236,Kessler Foundation,Spain,1
+237,Kessler Foundation,United States,21
+238,"Merck KGaA, Darmstadt, Germany",Algeria,1
+239,"Merck KGaA, Darmstadt, Germany",Argentina,9
+240,"Merck KGaA, Darmstadt, Germany",Australia,3
+241,"Merck KGaA, Darmstadt, Germany",Austria,5
+242,"Merck KGaA, Darmstadt, Germany",Bahrain,1
+243,"Merck KGaA, Darmstadt, Germany",Belgium,3
+244,"Merck KGaA, Darmstadt, Germany",Bulgaria,3
+245,"Merck KGaA, Darmstadt, Germany",Canada,4
+246,"Merck KGaA, Darmstadt, Germany",Croatia,2
+247,"Merck KGaA, Darmstadt, Germany",Czech Republic,3
+248,"Merck KGaA, Darmstadt, Germany",Czechia,2
+249,"Merck KGaA, Darmstadt, Germany",Denmark,3
+250,"Merck KGaA, Darmstadt, Germany",Egypt,1
+251,"Merck KGaA, Darmstadt, Germany",Estonia,3
+252,"Merck KGaA, Darmstadt, Germany",Finland,5
+253,"Merck KGaA, Darmstadt, Germany",France,6
+254,"Merck KGaA, Darmstadt, Germany",Germany,13
+255,"Merck KGaA, Darmstadt, Germany",Greece,5
+256,"Merck KGaA, Darmstadt, Germany",Hungary,3
+257,"Merck KGaA, Darmstadt, Germany","Iran, Islamic Republic of",1
+258,"Merck KGaA, Darmstadt, Germany",Israel,3
+259,"Merck KGaA, Darmstadt, Germany",Italy,7
+260,"Merck KGaA, Darmstadt, Germany","Korea, Republic of",2
+261,"Merck KGaA, Darmstadt, Germany",Kuwait,1
+262,"Merck KGaA, Darmstadt, Germany",Latvia,3
+263,"Merck KGaA, Darmstadt, Germany",Lebanon,3
+264,"Merck KGaA, Darmstadt, Germany",Lithuania,2
+265,"Merck KGaA, Darmstadt, Germany",Morocco,3
+266,"Merck KGaA, Darmstadt, Germany",Netherlands,3
+267,"Merck KGaA, Darmstadt, Germany",Norway,3
+268,"Merck KGaA, Darmstadt, Germany",Poland,7
+269,"Merck KGaA, Darmstadt, Germany",Portugal,4
+270,"Merck KGaA, Darmstadt, Germany",Romania,2
+271,"Merck KGaA, Darmstadt, Germany",Russian Federation,2
+272,"Merck KGaA, Darmstadt, Germany",Saudi Arabia,2
+273,"Merck KGaA, Darmstadt, Germany",Serbia,2
+274,"Merck KGaA, Darmstadt, Germany",Slovakia,3
+275,"Merck KGaA, Darmstadt, Germany",Spain,4
+276,"Merck KGaA, Darmstadt, Germany",Sweden,3
+277,"Merck KGaA, Darmstadt, Germany",Switzerland,2
+278,"Merck KGaA, Darmstadt, Germany",Taiwan,2
+279,"Merck KGaA, Darmstadt, Germany",Turkey,1
+280,"Merck KGaA, Darmstadt, Germany",United Kingdom,5
+281,NYU Langone Health,United States,18
+282,National Institute of Neurological Disorders and Stroke (NINDS),Israel,1
+283,National Institute of Neurological Disorders and Stroke (NINDS),United States,25
+284,Novartis Pharmaceuticals,Argentina,8
+285,Novartis Pharmaceuticals,Australia,13
+286,Novartis Pharmaceuticals,Austria,8
+287,Novartis Pharmaceuticals,Belarus,1
+288,Novartis Pharmaceuticals,Belgium,9
+289,Novartis Pharmaceuticals,Brazil,5
+290,Novartis Pharmaceuticals,Bulgaria,6
+291,Novartis Pharmaceuticals,Canada,15
+292,Novartis Pharmaceuticals,Chile,2
+293,Novartis Pharmaceuticals,China,2
+294,Novartis Pharmaceuticals,Colombia,2
+295,Novartis Pharmaceuticals,Croatia,3
+296,Novartis Pharmaceuticals,Cyprus,1
+297,Novartis Pharmaceuticals,Czech Republic,4
+298,Novartis Pharmaceuticals,Czechia,10
+299,Novartis Pharmaceuticals,Denmark,7
+300,Novartis Pharmaceuticals,Egypt,1
+301,Novartis Pharmaceuticals,Estonia,6
+302,Novartis Pharmaceuticals,Finland,7
+303,Novartis Pharmaceuticals,France,11
+304,Novartis Pharmaceuticals,Germany,25
+305,Novartis Pharmaceuticals,Greece,7
+306,Novartis Pharmaceuticals,Guatemala,1
+307,Novartis Pharmaceuticals,Hungary,10
+308,Novartis Pharmaceuticals,India,2
+309,Novartis Pharmaceuticals,Ireland,3
+310,Novartis Pharmaceuticals,Israel,6
+311,Novartis Pharmaceuticals,Italy,16
+312,Novartis Pharmaceuticals,Japan,6
+313,Novartis Pharmaceuticals,Jordan,2
+314,Novartis Pharmaceuticals,"Korea, Republic of",1
+315,Novartis Pharmaceuticals,Latvia,4
+316,Novartis Pharmaceuticals,Lebanon,2
+317,Novartis Pharmaceuticals,Lithuania,4
+318,Novartis Pharmaceuticals,Malaysia,2
+319,Novartis Pharmaceuticals,Mexico,8
+320,Novartis Pharmaceuticals,Netherlands,8
+321,Novartis Pharmaceuticals,Norway,6
+322,Novartis Pharmaceuticals,Panama,2
+323,Novartis Pharmaceuticals,Peru,3
+324,Novartis Pharmaceuticals,Poland,13
+325,Novartis Pharmaceuticals,Portugal,6
+326,Novartis Pharmaceuticals,Puerto Rico,8
+327,Novartis Pharmaceuticals,Romania,4
+328,Novartis Pharmaceuticals,Russian Federation,15
+329,Novartis Pharmaceuticals,Saudi Arabia,2
+330,Novartis Pharmaceuticals,Serbia,1
+331,Novartis Pharmaceuticals,Slovakia,7
+332,Novartis Pharmaceuticals,Slovenia,1
+333,Novartis Pharmaceuticals,South Africa,2
+334,Novartis Pharmaceuticals,Spain,17
+335,Novartis Pharmaceuticals,Sweden,8
+336,Novartis Pharmaceuticals,Switzerland,13
+337,Novartis Pharmaceuticals,Taiwan,2
+338,Novartis Pharmaceuticals,Thailand,2
+339,Novartis Pharmaceuticals,Turkey,12
+340,Novartis Pharmaceuticals,Ukraine,4
+341,Novartis Pharmaceuticals,United Arab Emirates,1
+342,Novartis Pharmaceuticals,United Kingdom,11
+343,Novartis Pharmaceuticals,United States,24
+344,Sanofi,Argentina,4
+345,Sanofi,Australia,5
+346,Sanofi,Austria,11
+347,Sanofi,Belarus,4
+348,Sanofi,Belgium,8
+349,Sanofi,Brazil,2
+350,Sanofi,Bulgaria,5
+351,Sanofi,Canada,22
+352,Sanofi,Chile,8
+353,Sanofi,China,6
+354,Sanofi,Colombia,2
+355,Sanofi,Croatia,2
+356,Sanofi,Czech Republic,6
+357,Sanofi,Czechia,7
+358,Sanofi,Denmark,7
+359,Sanofi,Estonia,9
+360,Sanofi,Finland,8
+361,Sanofi,France,15
+362,Sanofi,Germany,18
+363,Sanofi,Greece,7
+364,Sanofi,Hungary,6
+365,Sanofi,India,4
+366,Sanofi,Israel,3
+367,Sanofi,Italy,11
+368,Sanofi,Japan,3
+369,Sanofi,"Korea, Republic of",2
+370,Sanofi,Latvia,2
+371,Sanofi,Lithuania,4
+372,Sanofi,Mexico,2
+373,Sanofi,Netherlands,10
+374,Sanofi,Norway,8
+375,Sanofi,Philippines,1
+376,Sanofi,Poland,8
+377,Sanofi,Portugal,6
+378,Sanofi,Puerto Rico,1
+379,Sanofi,Romania,5
+380,Sanofi,Russian Federation,11
+381,Sanofi,Serbia,2
+382,Sanofi,Slovakia,4
+383,Sanofi,Spain,14
+384,Sanofi,Sweden,7
+385,Sanofi,Switzerland,4
+386,Sanofi,Taiwan,1
+387,Sanofi,Thailand,1
+388,Sanofi,Tunisia,3
+389,Sanofi,Turkey,8
+390,Sanofi,Ukraine,12
+391,Sanofi,United Kingdom,14
+392,Sanofi,United States,19
